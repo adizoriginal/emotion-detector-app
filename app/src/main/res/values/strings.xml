@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">StressLevelDetector</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="get_suggestion">Get Suggestion</string>
+    <string name="detected_emotion">Detected Emotion</string>
+    <string name="relaxing_tip">Take a deep breath. Try this relaxing music.</string>
+    <string name="happy_tip">You seem happy! Keep smiling and stay positive.</string>
+</resources>

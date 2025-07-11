@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <!-- Add or keep your existing color entries -->
+        <color name="emotion_angry">#FF5252</color>
+        <color name="emotion_sad">#2196F3</color>
+        <color name="emotion_happy">#FFD600</color>
+        <color name="emotion_surprised">#FF9800</color>
+        <color name="emotion_afraid">#9C27B0</color>
+        <color name="emotion_disgusted">#4CAF50</color>
+        <color name="emotion_neutral">#BDBDBD</color>
+    </resources>
+
