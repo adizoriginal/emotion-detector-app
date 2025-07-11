@@ -21,7 +21,7 @@ This is an Android app that detects human emotions from facial images using the 
 
 ## 🛠️ Tech Stack
 
-- Language: Java (or Kotlin if applicable)
+- Language: Java
 - IDE: Android Studio
 - Emotion Detection API: [Face++](https://www.faceplusplus.com/)
 - Media Playback: Android `MediaPlayer`
